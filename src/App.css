@@ -1,0 +1,25 @@
+.App{
+  margin: 20px auto;
+  width: 60%;
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: #f7d7d7;
+  text-align: center;
+}
+.btn {
+  outline: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  background: rgba(184, 154, 166, 0.26);
+  color: white;
+  border: none;
+  font-size: 22px;
+  transition: ease-in-out 0.4s;
+  border-radius: 10px ;
+}
+
+.btn:hover {
+  
+  color: rgba(96, 72, 235, 0.493);
+  background: white;
+}
